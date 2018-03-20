@@ -1,0 +1,20 @@
+apt-get -y --no-remove --allow-unauthenticated install python-software-properties
+apt-get -y --no-remove --allow-unauthenticated install php5
+apt-get -y --no-remove --allow-unauthenticated install php5-mysql
+apt-get --allow-unauthenticated install php5-mysql
+apt-get -y --no-remove --allow-unauthenticated install python-software-properties
+apt-get -y --no-remove --allow-unauthenticated install php5
+apt-get -y --no-remove --allow-unauthenticated install php5-mysqlnd
+apt-get -y --no-remove --allow-unauthenticated install php5-cli
+apt-get -y --no-remove --allow-unauthenticated install sudo
+apt-get -y --no-remove --allow-unauthenticated install wget
+apt-get -y --no-remove --allow-unauthenticated install aptitude
+apt-get -y --no-remove --allow-unauthenticated install apache2-utils
+apt-get -y --no-remove --allow-unauthenticated install python-software-properties
+apt-get -y --no-remove --allow-unauthenticated install php5
+apt-get -y --no-remove --allow-unauthenticated install php5-mysqlnd
+apt-get -y --no-remove --allow-unauthenticated install php5-cli
+apt-get -y --no-remove --allow-unauthenticated install sudo
+apt-get -y --no-remove --allow-unauthenticated install wget
+apt-get -y --no-remove --allow-unauthenticated install aptitude
+apt-get -y --no-remove --allow-unauthenticated install apache2-utils

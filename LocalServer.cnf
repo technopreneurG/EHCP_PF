@@ -1,0 +1,11 @@
+[ req ]
+prompt			= no
+distinguished_name	= server_distinguished_name
+
+[ server_distinguished_name ]
+commonName		= {webserverip}
+stateOrProvinceName	= Some State
+countryName		= US
+emailAddress		= noreply@gmail.com
+organizationName	= Server Managed by Ehcp
+organizationalUnitName	= Server Managed by Ehcp
