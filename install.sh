@@ -165,6 +165,7 @@ function infoMail(){
         #SENDING INFO TO REMOTE - SKIP
 		#ip=`ifconfig | grep "inet addr" | grep -v "127.0.0.1" | awk '{print $2}' `
 		##wget -q -O /dev/null --timeout=10 http://www.iyibirisi.com/diger/msg.php?msg=$1.$ip > /dev/null 2>&1 &
+        echo "skip info mail..."
 	fi
 }
 
